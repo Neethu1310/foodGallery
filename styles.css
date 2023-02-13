@@ -1,0 +1,47 @@
+body{
+background: linear-gradient(rgb(167, 102, 102),rgb(83, 148, 83));     
+}
+div{
+    font-family: 'Cinzel', serif;
+   color:black;
+   width: 180px;
+   height: 580px;
+   float: left;
+   align-items: center;
+   justify-content: space-evenly;
+   border: 2px inset brown;
+padding: 20px;
+margin: 20px;
+background-color:rgba(74, 69, 69, 0.623);
+}
+
+img{
+    width: 100%;
+    border: 2px solid rgb(147, 45, 45);
+    border-radius: 100px;
+}
+
+iframe{
+    width: 150px;
+    height: 150px;
+    border: 3px solid rgb(147, 45, 45);
+    border-radius: 50px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color:black;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+#a1{
+    padding:20px; 
+    margin: 20px;
+    text-decoration-style: wavy;
+
+    color:black;
+ }
